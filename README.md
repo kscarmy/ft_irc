@@ -64,8 +64,10 @@ nc 127.0.0.1 <port>
 
 ## Documentation
 
-Le sujet du projet [fr.sujet.ft_irc.pdf](https://github.com/kscarmy/ft_irc/blob/main/fr.sujet.ft_irc.pdf)
+Le sujet du projet [fr.sujet.ft_irc.pdf](docs/fr.sujet.ft_irc.pdf)
 
+## Résultat du projet
+![Note obtenue](docs/ft_irc-note.png)
 
 ## Auteurs
 
